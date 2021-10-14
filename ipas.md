@@ -44,14 +44,14 @@
 
 ### 資訊安全重要基本觀念
 ```
-機密性(Confidentiality)(資料不得被未經授權之個人、實體或程序所取得或揭露的特性。)
-完整性(Integrity)(傳輸、儲存資訊或資料的過程中，確保資訊或資料不被未授權的篡改或在篡改後能夠被迅速發現。)
-可用性(Availability)(系統的運作時間，工作時間比總時間。)
+機密性(Confidentiality):資料不得被未經授權之個人、實體或程序所取得或揭露的特性。
+完整性(Integrity):傳輸、儲存資訊或資料的過程中，確保資訊或資料不被未授權的篡改或在篡改後能夠被迅速發現。
+可用性(Availability):系統的運作時間，工作時間比總時間。
 
-鑑別性(Authenticity)
-可靠度(Reliability)
-不可否認性(Non-repudiation)
-可歸責性(Accountability)
+鑑別性(Authenticity):確保一主體或資源之識別就是其所聲明者的特性。
+可靠度(Reliability):產品功能於指定的環境中，正常運作之機率。
+不可否認性(Non-repudiation):對一已發生之行動或事件的證明，使該行動或事件往後不能被否認的能力。
+可歸責性(Accountability):確保實體之行為可唯一追溯到該實體的性質。
 ```
 ```
 邊界與分類(Boundary and classification)

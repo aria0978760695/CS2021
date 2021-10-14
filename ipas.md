@@ -44,9 +44,9 @@
 
 ### 資訊安全重要基本觀念
 ```
-機密性(Confidentiality)
-完整性(Integrity)
-可用性(Availability)
+機密性(Confidentiality)(資料不得被未經授權之個人、實體或程序所取得或揭露的特性。)
+完整性(Integrity)(傳輸、儲存資訊或資料的過程中，確保資訊或資料不被未授權的篡改或在篡改後能夠被迅速發現。)
+可用性(Availability)(系統的運作時間，工作時間比總時間。)
 
 鑑別性(Authenticity)
 可靠度(Reliability)

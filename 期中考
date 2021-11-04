@@ -53,7 +53,11 @@ https://github.com/s109000542/photo/blob/main/%E6%9C%9F%E4%B8%AD%E8%80%83.md
 - 都會區域網路（metropolitan area network, MAN）
 - 個人區域網路（personal area network, PAN）
 - 個人區域網路（personal area network, PAN）
-- VPN(必考題)
+- VPN(必考題)(virtual private network)
+1.安全的虛擬私人網路使用加密穿隧協定。
+2.通過阻止截聽與嗅探來提供機密性。
+3.允許傳送者身分驗證，以阻止身分偽造。
+4.通過防止資訊被修改提供訊息完整性。
 - `inter`et. `intra`net, `extra`net
 - 惡意軟體（malware）
 - 網路釣魚（phishing）

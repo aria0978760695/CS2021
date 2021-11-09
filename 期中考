@@ -87,7 +87,9 @@ https://github.com/s109000542/photo/blob/main/%E6%9C%9F%E4%B8%AD%E8%80%83.md
 3.可以充當電子身分證和鑰匙卡。
 - RFID
 - 蜂巢式網路（cellular network）(必考題)
-1.
+1.是一種行動通訊硬體架構。
+2.網路覆蓋的各通訊基地台的訊號覆蓋呈六邊形。
+3.蜂巢式網路組成主要有以下三部分：移動站，基站子系統，網路子系統。
 - Wi-Fi 熱點(hopspot)
 - 路由器韌體firmware
 - `硬`體(`hard`ware)|`軟`體(`soft`ware)|`韌`體(`firm`ware)
@@ -108,6 +110,9 @@ https://github.com/s109000542/photo/blob/main/%E6%9C%9F%E4%B8%AD%E8%80%83.md
 - 社群書籤（social bookmarking） 
 - 社群典藏（social curation）
 - 網路禮節（netiquette）(必考題)
+1.透過網路某個群體使用者同意，所發展出來的慣例通則。
+2.人們在網路空間中應該遵守的行為道德準則和規範。
+3.分為技術規範、使用規範、社會規範及網路禮儀。
 - `群眾`外包（`crowd`sourcing）  vs 外包(`out`sourcing）  
 - `群眾`集資（`crowd`funding） ==> http://iiic.niu.edu.tw/actnews/intro.php?Sn=13&OSn=42
 - 科技上癮（technology addiction）
@@ -115,6 +120,9 @@ https://github.com/s109000542/photo/blob/main/%E6%9C%9F%E4%B8%AD%E8%80%83.md
 - 網路霸凌（cyber`bullying`）
 - 網路跟蹤（cyber`stalking`）
 - emoji(必考題)
+1.是使用在網頁和聊天中的形意符號。
+2.表情意指面部表情，圖標則是圖形標誌的意思，可用來代表多種表情。
+3.繪文字通常直稱「emoji」或稱「表情符號」。
 - 謾罵論戰（flaming）
 - 同好社群網站（interest-based network
 - 電子郵件位址（email address）
@@ -124,6 +132,10 @@ https://github.com/s109000542/photo/blob/main/%E6%9C%9F%E4%B8%AD%E8%80%83.md
 
 ## 期中考範例題目[作業系統與檔案管理][教科書第4章110-134:重要名詞與觀念]
 - 系統軟體（system software）  vs appliation software(應用軟體) (必考題)
+1.主要指用來執行或控制硬體所開發的計算機軟體。
+2.系統程式指的是作業系統設計，以及與作業系統相關的程式。
+3.系統程式泛指與計算機系統相關的程式設計，例如嵌入式系統、組合語言程式設計、C 語言程式設計、Linux 核心程式設計等等。
+4.系統軟體主要指的是輔佐系統程式能夠在電腦上執行或執行特定工作 (例如除錯、行程排班) 等等的工具程式。
 - 作業系統（operating system, OS）
 - 圖形化使用者介面（graphical user interface, GUI）
 - 公用程式（utility）

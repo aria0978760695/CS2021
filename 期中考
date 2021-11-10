@@ -60,6 +60,9 @@ https://github.com/s109000542/photo/blob/main/%E6%9C%9F%E4%B8%AD%E8%80%83.md
 4.通過防止資訊被修改提供訊息完整性。
 - `inter`et. `intra`net, `extra`net
 - 惡意軟體（malware）
+1.使服務暫時中斷或停止，導致其正常使用者無法存取。
+2.試圖以各種方式阻擋使用者移除它們。
+3.惡意軟體的形式包括二進位可執行檔、指令碼、活動內容等。
 - 網路釣魚（phishing）
 - 社交工程（social engineering）
 - 阻斷服務攻擊（denial of service attack）|DoS 攻擊（DoS attack）
@@ -219,7 +222,10 @@ https://github.com/s109000542/photo/blob/main/%E6%9C%9F%E4%B8%AD%E8%80%83.md
 6. Crowdsourcing vs Crowdfunding[比較題]
 7. metadata
 8. CMS
-9. DDos Attack
+9. DDos Attack(阻斷服務攻擊)
+(1)是一種網路攻擊手法。
+(2)目的在於使目標電腦的網路或系統資源耗盡。
+(3)會使服務暫時中斷或停止，導致其正常使用者無法存取。
 10. Botnet
 11. RWD
 12. SEO

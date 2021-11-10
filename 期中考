@@ -237,9 +237,9 @@ https://github.com/s109000542/photo/blob/main/%E6%9C%9F%E4%B8%AD%E8%80%83.md
 ```
 本題須清楚簡述底下主題:
 1. 解釋 communication protocol(簡稱協定 protocol)
-
+任何物理媒介中允許兩個或多個在傳輸系統中的終端之間傳播資訊的系統標準，也是指電腦通信或網路裝置的共同語言。
 2. Why Layering? (為何要分層 ?)
-
+我們將網絡問題分成幾部分——它簡化了規則、一個協議必須“做什麼”以及它如何與其他層通信
 3. 列出 OSI Model 與 TCP/IP protocol對應圖
    註 1: 需用中英文寫出各層的名稱
     註 2:須說明 OSI Model每一層的簡略功能

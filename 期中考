@@ -77,8 +77,8 @@ https://github.com/s109000542/photo/blob/main/%E6%9C%9F%E4%B8%AD%E8%80%83.md
 - 網路標準（network standard）
 - 乙太網路(Ethernet)(必考題)
 1.是一種電腦區域網路技術。
-2.IEEE組織的IEEE 802.3標準制定了乙太網路的技術標準，它規定了包括實體層的連線、電子訊號和媒介存取控制的內容。
-3.乙太網路是目前應用最普遍的區域網路技術，取代了其他區域網路標準如權杖環、FDDI和ARCNET。
+2.IEEE組織的IEEE 802.3標準制定了乙太網路的技術標準。
+3.它規定了包括實體層的連線、電子訊號和媒介存取控制的內容。
 - 協定（protocol）
 - Transmission Control Protocol/Internet Protocol（傳輸控制協定／網際網路協定） 
 - NFC(Near-field communication)(必考題)
@@ -137,6 +137,9 @@ https://github.com/s109000542/photo/blob/main/%E6%9C%9F%E4%B8%AD%E8%80%83.md
 3.系統程式泛指與計算機系統相關的程式設計，例如嵌入式系統、組合語言程式設計、C 語言程式設計、Linux 核心程式設計等等。
 4.系統軟體主要指的是輔佐系統程式能夠在電腦上執行或執行特定工作 (例如除錯、行程排班) 等等的工具程式。
 - 作業系統（operating system, OS）
+1.控制電腦操作、運用和執行硬體、軟體資源和提供公共服務來組織使用者互動的相互關聯的系統軟體程式。
+2.同時也是電腦系統的核心與基石。
+3.作業系統需要處理如管理與組態記憶體、決定系統資源供需的優先次序、控制輸入與輸出裝置、操作網路與管理檔案系統等基本事務。
 - 圖形化使用者介面（graphical user interface, GUI）
 - 公用程式（utility）
 - `封閉`原始碼（`closed` source）  vs `開放`原始碼（`open` source）
@@ -162,13 +165,17 @@ https://github.com/s109000542/photo/blob/main/%E6%9C%9F%E4%B8%AD%E8%80%83.md
 ### 開機程序（boot process） 
 
 - 核心（kernel）與shell
-
+1.將電腦程式要求轉譯為資料處理的指令並交由中央處理器（CPU）及電腦中其他電子元件進行處理。
+2.它是為眾多應用程式提供對電腦硬體的安全存取的一部分軟體。
+3.通過行程間通訊機制及系統呼叫，應用行程可間接控制所需的硬體資源（特別是處理器及IO裝置）。
 ### 作業系統（operating system, OS）的功能: IO管理
 
 - 輸入（input） vs  輸出（output）
 - 緩衝區（buffer）
 - 多工緩衝處理（spooling）
-
+1.是一種資料緩衝。
+2.傳輸資料的過程中，將資料存放在臨時工作區中。
+3.其它程式可以在之後的任意時間點對其存取。
 ## windows系統管理工具
 - 磁碟清理公用程式（disk cleanup utility）
 - 使用者帳戶（user account）  vs 系統管理員帳戶（administrator account）

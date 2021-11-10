@@ -243,7 +243,10 @@ https://github.com/s109000542/photo/blob/main/%E6%9C%9F%E4%B8%AD%E8%80%83.md
 3. 列出 OSI Model 與 TCP/IP protocol對應圖
    註 1: 需用中英文寫出各層的名稱
     註 2:須說明 OSI Model每一層的簡略功能
+``
 ![e832e43ce763c0faf46acd2b08c49531.jpg](e832e43ce763c0faf46acd2b08c49531.jpg)
+
+``
 4. 簡述 下列協定的功能 與特色並說明它們 運作在 TCP/IP的哪一層?
    (1)HTTP vs HTTPS (2) TELNET vs SSH (3)DNS (4)IP (5)ICMP
 
